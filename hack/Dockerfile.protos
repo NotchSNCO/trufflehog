@@ -1,6 +1,6 @@
 # trufflesecurity/protos:1.18-0
 
-FROM golang:1.18-bullseye
+FROM golang:1.21.7-bullseye
 
 ARG TARGETARCH
 ARG TARGETOS
